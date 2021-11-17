@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[](http://localhost:28060/session/viewhtmlc5a13a6a08ad/index.html) and ![Image](src) 
+[](https://github.com/MAAJ21/CovidHotspots/blob/gh-pages/interactiveplot.html) and ![Image](src) 
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
