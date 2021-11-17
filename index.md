@@ -6,21 +6,14 @@
 
 ### Some other plots are listed bellow
 
-![Uppsala Stats](/figures/Uppsala.png)
-
-![Enkoping Stats](/figures/enkoping.png)
-
-![Knivsta Stats](/figures/knivsta.png)
-
-![Heby Stats](/figures/heby.png)
-
-![Tierp Stats](/figures/tierp.png)
-
-![Östhammar Stats](/figures/osthammar.png)
-
-![Älvkarleby Stats](/figures/alvkarleby.png)
-
-![Håbo Stats](/figures/habo.png)
+<img src="figures/uppsala.png" class="img-responsive" alt=""> </div>
+<img src="figures/enkoping.png" class="img-responsive" alt=""> </div>
+<img src="figures/knivsta.png" class="img-responsive" alt=""> </div>
+<img src="figures/tierp.png" class="img-responsive" alt=""> </div>
+<img src="figures/heby.png" class="img-responsive" alt=""> </div>
+<img src="figures/osthammar.png" class="img-responsive" alt=""> </div>
+<img src="figures/alvkarleby.png" class="img-responsive" alt=""> </div>
+<img src="figures/habo.png" class="img-responsive" alt=""> </div>
 
 You can use the [editor on GitHub](https://github.com/MAAJ21/CovidHotspots/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
