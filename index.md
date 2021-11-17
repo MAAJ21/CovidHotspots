@@ -7,12 +7,19 @@
 ### Some other plots are listed bellow
 
 ![Uppsala Stats](/figures/Uppsala.png)
+
 ![Enkoping Stats](/figures/enkoping.png)
+
 ![Knivsta Stats](/figures/knivsta.png)
+
 ![Heby Stats](/figures/heby.png)
+
 ![Tierp Stats](/figures/tierp.png)
+
 ![Östhammar Stats](/figures/osthammar.png)
+
 ![Älvkarleby Stats](/figures/alvkarleby.png)
+
 ![Håbo Stats](/figures/habo.png)
 
 You can use the [editor on GitHub](https://github.com/MAAJ21/CovidHotspots/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
