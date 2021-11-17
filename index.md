@@ -1,5 +1,7 @@
 ## Welcome to CovidHotspots
 
+<iframe src="enkoping_map.html" height="500" width="500"></iframe>
+
 You can use the [editor on GitHub](https://github.com/MAAJ21/CovidHotspots/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
