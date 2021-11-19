@@ -2,7 +2,7 @@
 
 
 ### Here comes an interactive plot of Enköping for week 48
-<iframe src="enkoping_map.html" height="500" width="500"></iframe>
+<iframe src="Covid-19 In Region Uppsala.html" height="500" width="500"></iframe>
 
 ### Some other plots are listed bellow
 
